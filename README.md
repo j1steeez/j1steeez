@@ -2,7 +2,6 @@
 
 building native apps and shipping stuff people actually open twice.
 
-clean UI, solid data models, and that last 10% that makes an app feel real. not a demo you abandon after star day.
 
 ## featured
 
